@@ -113,6 +113,7 @@ public class Main {
 			leer.nextLine();
 		} while (op != 0);
 		
+	//Participantes del grupo 
 		
 		System.out.println("Adrián, Cristian, Maria, Nora");
 		leer.close();
