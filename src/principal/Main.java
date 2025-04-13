@@ -23,7 +23,8 @@ public class Main {
 	public static void resta(Scanner leer, int a, int b) {
 
 		try {
-			System.out.println("\nModificacion para conflicto");
+			System.out.println("\nRESTA: ");
+
 			System.out.print("A = ");
 			a = leer.nextInt();
 			System.out.print("B = ");
