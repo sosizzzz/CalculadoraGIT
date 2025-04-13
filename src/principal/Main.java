@@ -5,11 +5,10 @@ import java.util.Scanner;
 public class Main {
 	
 	//Funcion para sumar 
-
 	public static void suma(Scanner leer, int a, int b) {
-
+		
 		try {
-			System.out.println("\nMULTIPLICACION");
+			System.out.println("\nSUMA");
 			System.out.print("A = ");
 			a = leer.nextInt();
 			System.out.print("B = ");
@@ -18,7 +17,6 @@ public class Main {
 		} catch (InputMismatchException e) {
 			System.err.println("ERROR: No has introducido un valor numérico.\n");
 		}
-
 	}
 	
 	//Funcion para restar dos numeros
