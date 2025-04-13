@@ -3,6 +3,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
+	
+	//Funcion para sumar 
 
 	public static void suma(Scanner leer, int a, int b) {
 
