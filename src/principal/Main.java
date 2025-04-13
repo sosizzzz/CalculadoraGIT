@@ -24,6 +24,7 @@ public class Main {
 
 		try {
 			System.out.println("\nRESTA: ");
+
 			System.out.print("A = ");
 			a = leer.nextInt();
 			System.out.print("B = ");
