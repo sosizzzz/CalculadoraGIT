@@ -18,6 +18,8 @@ public class Main {
 		}
 
 	}
+	
+	//Funcion para restar dos numeros
 
 	public static void resta(Scanner leer, int a, int b) {
 
@@ -52,6 +54,7 @@ public class Main {
 
 	}
 
+	//Funcion para dividir dos numeros
 	public static void division(Scanner leer, int a, int b) {
 
 		try {
