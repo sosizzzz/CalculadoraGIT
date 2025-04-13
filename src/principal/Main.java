@@ -35,6 +35,8 @@ public class Main {
 
 	}
 
+	
+	//Funcion para multiplicar dos numeros
 	public static void multi(Scanner leer, int a, int b) {
 
 		try {
