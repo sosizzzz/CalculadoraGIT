@@ -78,7 +78,7 @@ public class Main {
 		Scanner leer = new Scanner(System.in);
 
 		int op;
-		int  b = 0;
+		int  a =0, b = 0;
 
 		do {
 			System.out.println("CALCULADORA");
