@@ -3,6 +3,8 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
+	
+	//Funcion para sumar 
 
 	public static void suma(Scanner leer, int a, int b) {
 
@@ -18,6 +20,8 @@ public class Main {
 		}
 
 	}
+	
+	//Funcion para restar dos numeros
 
 	public static void resta(Scanner leer, int a, int b) {
 
@@ -35,6 +39,8 @@ public class Main {
 
 	}
 
+	
+	//Funcion para multiplicar dos numeros
 	public static void multi(Scanner leer, int a, int b) {
 
 		try {
@@ -50,6 +56,7 @@ public class Main {
 
 	}
 
+	//Funcion para dividir dos numeros
 	public static void division(Scanner leer, int a, int b) {
 
 		try {
@@ -111,6 +118,8 @@ public class Main {
 			leer.nextLine();
 		} while (op != 0);
 		
+	//Participantes del grupo 
+
 		
 		System.out.println("Adrián, Cristian, Maria, Nora");
 		leer.close();
