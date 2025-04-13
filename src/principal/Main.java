@@ -20,11 +20,10 @@ public class Main {
 	}
 	
 	//Funcion para restar dos numeros
-
 	public static void resta(Scanner leer, int a, int b) {
 
 		try {
-			System.out.println("\nMULTIPLICACION");
+			System.out.println("\nRetsadenuemros");
 			System.out.print("A = ");
 			a = leer.nextInt();
 			System.out.print("B = ");
